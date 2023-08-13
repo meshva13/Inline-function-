@@ -1,4 +1,5 @@
-/* c++ program to find cube of a number using inline function */
+/* c++ program to find cube of a 
+number using inline function */
 
 #include <iostream>
 using namespace std;
